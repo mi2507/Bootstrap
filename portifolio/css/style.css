@@ -1,0 +1,17 @@
+.nav_transp{
+    position: absolute;
+    top:0;
+    width: 100%;
+    z-index: 9;
+} 
+
+.jumbotron_text{
+    margin-bottom: 300px;
+}
+
+.footer_maior{
+    background-image: url("../assets/06-thumbnail.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
